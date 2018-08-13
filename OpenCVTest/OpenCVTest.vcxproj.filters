@@ -30,4 +30,8 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Xml Include="haarcascade_eye.xml" />
+    <Xml Include="haarcascade_frontalface_default.xml" />
+  </ItemGroup>
 </Project>
